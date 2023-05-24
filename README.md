@@ -13,7 +13,6 @@ multidict==6.0.4
 python-dotenv==1.0.0
 yarl==1.8.2
 
-The code begins by importing the necessary libraries and modules, including the discord library for interacting with the Discord API.
 
 The Discord bot is created using the Client class from the discord module, with specified intents that enable message content and member-related events.
 
