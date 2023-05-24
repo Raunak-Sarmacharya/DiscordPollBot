@@ -1,5 +1,5 @@
 # DiscordPollBot
-#Requirements
+# Requirements
 aiohttp==3.8.4
 aiosignal==1.3.1
 async-timeout==4.0.2
